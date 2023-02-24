@@ -1,0 +1,51 @@
+/*FONTES*/
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+/* --- */
+body{
+
+    background-color: #2e3035;
+    font-family: 'Dosis', sans-serif;
+
+}
+
+/* Navbar */
+
+.navbar{
+
+    position: fixed;
+    width: 100%;
+
+}
+
+#NavItems{
+
+    margin-top: 2rem;
+    
+}
+
+#PageTitle{
+
+    display: inline;
+    float: right;
+    font-size: 20px;
+    margin-right: 1rem;
+
+}
+
+#MainText{
+
+    text-align: center;
+    background-color: rgb(66, 66, 66);
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+
+}
+/* --- */
+
+/* Main */
+
+
+
+/* --- */
